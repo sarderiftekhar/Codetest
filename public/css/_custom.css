@@ -1,0 +1,21 @@
+.task_area{
+    border:1px solid gray;
+    box-shadow: 1px 1px #0f0f0f;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width:600px;
+    height:400px;
+    margin: auto;
+    margin-top: 5em;
+    padding:5em;
+}
+.desc{
+    display: inline-flex;
+    justify-content: flex-start;
+    width:800px;
+}
+.id{
+    text-align: left;
+    float: left;
+}
